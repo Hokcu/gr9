@@ -7,5 +7,6 @@ public class Hsn1 {
         System.out.println(" ");
         System.out.println("..");
         System.out.println(" H ");
+        System.out.println(" ");
     }
 }
