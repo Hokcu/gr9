@@ -4,6 +4,7 @@ public class a1 {
         System.out.println("Second commit");
         System.out.println("We did some changes");
         System.out.println(" M");
+        System.out.println(" MM");
 
     }
 }
