@@ -3,5 +3,6 @@ public class Eric1 {
         System.out.println("Eric's first study");
         System.out.println("Second work");
         System.out.println("third");
+        System.out.println(" ");
     }
 }
